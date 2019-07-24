@@ -1,0 +1,5 @@
+﻿  1.1fasta.cpp
+C:\Users\chenp\source\repos\1.1fasta\1.1fasta.cpp(13): warning C4244: "Initialisierung": Konvertierung von "std::streamoff" in "int", möglicher Datenverlust
+C:\Users\chenp\source\repos\1.1fasta\1.1fasta.cpp(24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\chenp\source\repos\1.1fasta\1.1fasta.cpp(31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  1.1fasta.vcxproj -> C:\Users\chenp\source\repos\1.1fasta\Debug\1.1fasta.exe
